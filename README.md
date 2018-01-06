@@ -4,4 +4,4 @@ This is my first android app FeiHuaLing.
 
 ## Screen Shots
 
-<img src="https://github.com/ChenTsuei/FeiHuaLing-Android/raw/master/feihualing-android.png" width="400">
+<img src="https://raw.githubusercontent.com/ChenTsuei/FeiHuaLing-Android/master/feihualing-android.png" width="400">
